@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:82e06ffcd208f575a1c3c2810822453c$ -->
+<TextureAtlas imagePath="spritesheet.png">
+    <SubTexture name="AddButton" x="379" y="983" width="146" height="32"/>
+    <SubTexture name="AmoritizationOverlay" x="241" y="647" width="101" height="172"/>
+    <SubTexture name="AmoritizationSpinner1" x="2" y="2" width="101" height="825"/>
+    <SubTexture name="AmoritizationSpinner2" x="908" y="48" width="101" height="595"/>
+    <SubTexture name="BackButton" x="286" y="983" width="59" height="12"/>
+    <SubTexture name="DeleteButton" x="264" y="175" width="60" height="31"/>
+    <SubTexture name="Dial1" x="152" y="999" width="17" height="23"/>
+    <SubTexture name="Dial10" x="107" y="39" width="29" height="24"/>
+    <SubTexture name="Dial2" x="420" y="335" width="20" height="24"/>
+    <SubTexture name="Dial3" x="420" y="307" width="20" height="24"/>
+    <SubTexture name="Dial4" x="420" y="279" width="20" height="24"/>
+    <SubTexture name="Dial5" x="420" y="251" width="20" height="24"/>
+    <SubTexture name="Dial6" x="420" y="223" width="20" height="24"/>
+    <SubTexture name="Dial7" x="413" y="399" width="19" height="24"/>
+    <SubTexture name="Dial8" x="420" y="194" width="20" height="25"/>
+    <SubTexture name="Dial9" x="420" y="165" width="20" height="25"/>
+    <SubTexture name="DialogWindowBG" x="529" y="101" width="365" height="250"/>
+    <SubTexture name="EmailQuote" x="2" y="831" width="146" height="190"/>
+    <SubTexture name="Fixed" x="346" y="261" width="70" height="92"/>
+    <SubTexture name="FixedOn" x="346" y="165" width="70" height="92"/>
+    <SubTexture name="InterestRateNeedle" x="346" y="101" width="89" height="60"/>
+    <SubTexture name="InterestRateNumberBox" x="346" y="357" width="69" height="26" frameX="-3" frameY="-7" frameWidth="75" frameHeight="40"/>
+    <SubTexture name="InterestRateNumberBoxOver" x="444" y="188" width="73" height="30" frameX="-1" frameY="-4" frameWidth="75" frameHeight="40"/>
+    <SubTexture name="MultipleLoanAmountsButton" x="908" y="2" width="105" height="42"/>
+    <SubTexture name="MultipleLoanItem" x="152" y="2" width="752" height="95"/>
+    <SubTexture name="PaymentOption1" x="419" y="363" width="21" height="32"/>
+    <SubTexture name="PaymentOption12" x="107" y="2" width="40" height="33"/>
+    <SubTexture name="PaymentOption2" x="349" y="983" width="26" height="33"/>
+    <SubTexture name="PaymentOption4" x="107" y="67" width="27" height="32"/>
+    <SubTexture name="PaymentOptionsThumb" x="346" y="387" width="63" height="42"/>
+    <SubTexture name="ReadyToBuy" x="152" y="823" width="130" height="172"/>
+    <SubTexture name="ReadyToBuyOver" x="107" y="647" width="130" height="172"/>
+    <SubTexture name="SendButton" x="444" y="101" width="77" height="83"/>
+    <SubTexture name="Spinner" x="173" y="999" width="20" height="20"/>
+    <SubTexture name="SubmitButton" x="107" y="175" width="153" height="70"/>
+    <SubTexture name="SubmitButtonDown" x="138" y="101" width="153" height="70"/>
+    <SubTexture name="SubmittingData" x="197" y="999" width="137" height="17"/>
+    <SubTexture name="TermOfLoanDial3" x="286" y="823" width="154" height="156" frameX="-1" frameY="0" frameWidth="156" frameHeight="156"/>
+    <SubTexture name="Variable" x="444" y="319" width="70" height="93"/>
+    <SubTexture name="VariableOn" x="444" y="222" width="70" height="93"/>
+</TextureAtlas>
